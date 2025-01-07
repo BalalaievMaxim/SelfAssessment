@@ -1,11 +1,11 @@
 ## Architecture
 
 - Application structure
-  - Modularity u
-  - Components u
-  - Directories u
+  - Modularity: 🖐️ used
+  - Components: 🖐️ used
+  - Directories: 🖐️ used
   - GRASP
-  - SOLID h
+  - SOLID: 🎓 known
   - GoF patterns
   - CQS
   - Leaking abstractions
@@ -57,7 +57,7 @@
   - PaaS
   - SaaS
   - FaaS clouds
-  - Serverless h
+  - Serverless: 🎓 known
   - Vendor lock-in
   - Bus factor
 - Solution architecture
@@ -73,7 +73,7 @@
   - Clouds
   - BPMN
   - Low-code
-  - No-code u
+  - No-code: 🖐️ used
   - Metric
   - Metric abuse
   - ACID

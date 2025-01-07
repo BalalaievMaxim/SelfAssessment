@@ -1,10 +1,10 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop u
-  - `try..catch` u
-  - Non-blocking h
-  - Async I/O k
+  - Event loop: 🎓 known
+  - `try..catch`: 🖐️ used
+  - Non-blocking: 🎓 known
+  - Async I/O: 🖐️ used
   - Thread pool
   - Pattern Reactor
   - CAS operations
@@ -22,18 +22,18 @@
   - Thread
   - Process
 - Async contracts
-  - Callbacks h
+  - Callbacks: 🖐️ used
   - Callback-last-error-first
   - Thenable
-  - Promise
-  - Async/await k
+  - Promise: 🎓 known
+  - Async/await: 🖐️ used
   - Future
   - Deferred
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event h
-  - Coroutine h
+  - Event: 🎓 known
+  - Coroutine: 🖐️ used
   - Goroutine
   - Signal
   - Stream
@@ -44,10 +44,10 @@
   - callbackify
   - promisify
   - asyncify
-  - Callbacks compose
-  - Async compose
+  - Callbacks compose: 🎓 known
+  - Async compose: 🎓 known
 - Async abstractions interfaces
-  - EventEmitter
+  - EventEmitter: 🎓 known
   - Observable/Observer
   - Readable
   - Writable
@@ -68,10 +68,10 @@
   - Promise double resolve
   - Atomics
   - High resolution clock
-  - Callback hell
+  - Callback hell: 🎓 known
   - Promise hell
   - ref() and unref()
-  - Error handling in async code
+  - Error handling in async code: 🎓 known
   - Better stack traces with return await
   - JSON streaming serialization
   - AsyncLocalStorage

@@ -1,17 +1,17 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming h
-  - Structured programming
+  - Procedural programming: 👂 heard
+  - Imperative programming: 👂 heard
+  - Structured programming: 👂 heard
   - Non-structured programming
-  - Functional programming
+  - Functional programming: 👂 heard
   - Prototype-based programming
-  - Object-oriented programming h
+  - Object-oriented programming: 🖐️ used
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming
+  - Asynchronous programming: 🖐️ used
   - Parallel programming
   - Reactive programming
   - Functional-reactive (FRP)
@@ -27,27 +27,27 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor h
-  - Operator `new` h
-  - Static method
-  - Method h
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance h
-  - Parent class h
-  - Polymorphism
-  - Abstract class
+  - Constructor: 🖐️ used
+  - Operator `new`: 🖐️ used
+  - Static method: 🖐️ used
+  - Method: 🖐️ used
+  - Async method: 🖐️ used
+  - Getters, Setters: 🖐️ used
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
+  - Field declarations: 🖐️ used
+  - Inheritance: 🖐️ used
+  - Parent class: 🖐️ used
+  - Polymorphism: 🖐️ used
+  - Abstract class: 🖐️ used
   - Interface
-  - Encapsulation h
+  - Encapsulation: 👂 heard
   - Hidden class
   - Object form
-  - Instance h
-  - Introspection h
+  - Instance: 🖐️ used
+  - Introspection: 🖐️ used
   - Reflection
-  - The diamond problem
+  - The diamond problem: 🖐️ used
 - GRASP
   - Information expert
   - Creator
@@ -58,14 +58,14 @@
   - Protected variations
   - Pure fabrication
 - SOLID
-  - Single-responsibility principle (SRP) h
-  - Open–closed principle (OCP)
-  - Liskov substitution principle (LSP)
-  - Interface segregation principle (ISP)
-  - Dependency inversion principle (DIP) h
+  - Single-responsibility principle (SRP): 🖐️ used
+  - Open–closed principle (OCP): 🎓 known
+  - Liskov substitution principle (LSP): 🎓 known
+  - Interface segregation principle (ISP): 🖐️ used
+  - Dependency inversion principle (DIP): 🖐️ used
 - Patterns
-  - Singleton h
-  - Factory Method h
+  - Singleton: 🖐️ used
+  - Factory Method: 🖐️ used
   - Abstract Factory
   - Adapter
   - Observer
@@ -80,7 +80,7 @@
   - Builder
   - Prototype
   - Composite
-  - Decorator h
+  - Decorator: 🖐️ used
   - Flyweight
   - Mediator
   - Memento

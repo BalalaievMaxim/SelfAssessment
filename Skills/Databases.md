@@ -1,14 +1,14 @@
 ## Databases
 
 - Theory and concepts
-  - Data types h
+  - Data types: 🖐️ used
   - Performance tuning
   - Migrations
   - Schema versioning
   - Backup and recovery
   - Database scalability
-  - Relational databases
-  - Key-value store u
+  - Relational databases: 🎓 known
+  - Key-value store: 🖐️ used
   - Tuple store
   - Graph databases
   - Object databases
@@ -25,7 +25,7 @@
   - Entity-Relationship Diagram
   - Normal forms
   - Indexing
-  - Primary keys h
+  - Primary keys: 🎓 known
   - Foreign keys
   - Transactions
   - Views
@@ -36,30 +36,30 @@
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`
-  - `INSERT`
-  - `UPDATE`
-  - `DELETE`
+  - `SELECT`: 👂 heard
+  - `INSERT`: 👂 heard
+  - `UPDATE`: 👂 heard
+  - `DELETE`: 👂 heard
   - `LIMIT`
-  - `OFFSET`
-  - `ORDER BY`
-  - `GROUP BY`
-  - `HAVING`
-  - `EXISTS`
-  - `JOIN`
+  - `OFFSET`: 👂 heard
+  - `ORDER BY`: 👂 heard
+  - `GROUP BY`: 👂 heard
+  - `HAVING`: 👂 heard
+  - `EXISTS`: 👂 heard
+  - `JOIN`: 👂 heard
   - `INNER JOIN`
   - `LEFT JOIN`
   - `RIGHT JOIN`
   - `UNION`
   - `DISTINCT`
-  - `WHERE`
-  - `LIKE`
-  - `IN`
+  - `WHERE`: 👂 heard
+  - `LIKE`: 👂 heard
+  - `IN`: 👂 heard
   - `BETWEEN`
-  - `CREATE TABLE`
-  - `ALTER TABLE`
-  - `DROP TABLE`
-  - `PRIMARY KEY`
+  - `CREATE TABLE`: 👂 heard
+  - `ALTER TABLE`: 👂 heard
+  - `DROP TABLE`: 👂 heard
+  - `PRIMARY KEY`: 👂 heard
   - `FOREIGN KEY`
   - `CHECK`
   - `DEFAULT`
@@ -70,18 +70,18 @@
   - `DENY`
   - `EXPLAIN`
 - Engines
-  - PostgreSQL
+  - PostgreSQL: 👂 heard
   - Oracle
   - MySQL
   - MariaDB
   - MS SQL Server
-  - Redis h
+  - Redis: 🖐️ used
   - Rabbit
   - MongoDB
   - Memcached
   - Riak
   - DB2
-  - SQLite
+  - SQLite: 🎓 known
   - DynamoDB
   - Firebase
 - Data engineering
@@ -89,6 +89,6 @@
   - Business intelligence
   - Big data
   - Data analysis
-  - AI tools u
+  - AI tools: 🖐️ used
   - Cloud databases
   - Data Visualization
