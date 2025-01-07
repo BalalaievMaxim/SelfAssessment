@@ -1,17 +1,17 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
+  - Procedural programming h
   - Imperative programming h
-  - Structured programming
+  - Structured programming h
   - Non-structured programming
-  - Functional programming
+  - Functional programming h
   - Prototype-based programming
-  - Object-oriented programming h
+  - Object-oriented programming u
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming
+  - Asynchronous programming u
   - Parallel programming
   - Reactive programming
   - Functional-reactive (FRP)
@@ -27,27 +27,27 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor h
-  - Operator `new` h
-  - Static method
-  - Method h
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance h
-  - Parent class h
-  - Polymorphism
-  - Abstract class
+  - Constructor u
+  - Operator `new` u
+  - Static method u
+  - Method u
+  - Async method u
+  - Getters, Setters u
+  - Public fields u
+  - Private fields u
+  - Field declarations u
+  - Inheritance u
+  - Parent class u
+  - Polymorphism u
+  - Abstract class u
   - Interface
   - Encapsulation h
   - Hidden class
   - Object form
-  - Instance h
-  - Introspection h
+  - Instance u
+  - Introspection u
   - Reflection
-  - The diamond problem
+  - The diamond problem u
 - GRASP
   - Information expert
   - Creator
@@ -58,14 +58,14 @@
   - Protected variations
   - Pure fabrication
 - SOLID
-  - Single-responsibility principle (SRP) h
-  - Open–closed principle (OCP)
-  - Liskov substitution principle (LSP)
-  - Interface segregation principle (ISP)
-  - Dependency inversion principle (DIP) h
+  - Single-responsibility principle (SRP) u
+  - Open–closed principle (OCP) k
+  - Liskov substitution principle (LSP) k
+  - Interface segregation principle (ISP) u
+  - Dependency inversion principle (DIP) u
 - Patterns
-  - Singleton h
-  - Factory Method h
+  - Singleton u
+  - Factory Method u
   - Abstract Factory
   - Adapter
   - Observer
@@ -80,7 +80,7 @@
   - Builder
   - Prototype
   - Composite
-  - Decorator h
+  - Decorator u
   - Flyweight
   - Mediator
   - Memento

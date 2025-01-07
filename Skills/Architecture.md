@@ -5,7 +5,7 @@
   - Components u
   - Directories u
   - GRASP
-  - SOLID h
+  - SOLID k
   - GoF patterns
   - CQS
   - Leaking abstractions
@@ -57,7 +57,7 @@
   - PaaS
   - SaaS
   - FaaS clouds
-  - Serverless h
+  - Serverless k
   - Vendor lock-in
   - Bus factor
 - Solution architecture

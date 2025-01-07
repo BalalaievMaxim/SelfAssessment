@@ -1,13 +1,13 @@
 ## Databases
 
 - Theory and concepts
-  - Data types h
+  - Data types u
   - Performance tuning
   - Migrations
   - Schema versioning
   - Backup and recovery
   - Database scalability
-  - Relational databases
+  - Relational databases k
   - Key-value store u
   - Tuple store
   - Graph databases
@@ -25,7 +25,7 @@
   - Entity-Relationship Diagram
   - Normal forms
   - Indexing
-  - Primary keys h
+  - Primary keys k
   - Foreign keys
   - Transactions
   - Views
@@ -36,30 +36,30 @@
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`
-  - `INSERT`
-  - `UPDATE`
-  - `DELETE`
+  - `SELECT` h
+  - `INSERT` h
+  - `UPDATE` h
+  - `DELETE` h
   - `LIMIT`
-  - `OFFSET`
-  - `ORDER BY`
-  - `GROUP BY`
-  - `HAVING`
-  - `EXISTS`
-  - `JOIN`
+  - `OFFSET` h
+  - `ORDER BY` h 
+  - `GROUP BY` h
+  - `HAVING` h
+  - `EXISTS` h
+  - `JOIN` h
   - `INNER JOIN`
   - `LEFT JOIN`
   - `RIGHT JOIN`
   - `UNION`
   - `DISTINCT`
-  - `WHERE`
-  - `LIKE`
-  - `IN`
+  - `WHERE` h
+  - `LIKE` h
+  - `IN` h
   - `BETWEEN`
-  - `CREATE TABLE`
-  - `ALTER TABLE`
-  - `DROP TABLE`
-  - `PRIMARY KEY`
+  - `CREATE TABLE` h
+  - `ALTER TABLE` h
+  - `DROP TABLE` h
+  - `PRIMARY KEY` h
   - `FOREIGN KEY`
   - `CHECK`
   - `DEFAULT`
@@ -70,18 +70,18 @@
   - `DENY`
   - `EXPLAIN`
 - Engines
-  - PostgreSQL
+  - PostgreSQL h
   - Oracle
   - MySQL
   - MariaDB
   - MS SQL Server
-  - Redis h
+  - Redis u
   - Rabbit
   - MongoDB
   - Memcached
   - Riak
   - DB2
-  - SQLite
+  - SQLite k
   - DynamoDB
   - Firebase
 - Data engineering

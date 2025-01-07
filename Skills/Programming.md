@@ -1,79 +1,79 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model h
-  - Modeling h
+  - Model k
+  - Modeling k
   - Subject domain
-  - Algorithm k
-  - Syntax k
-  - Semantics h
-  - Abstraction h
-  - Paradigm h
+  - Algorithm u
+  - Syntax u
+  - Semantics k
+  - Abstraction u
+  - Paradigm u
   - Programm u
-  - Programming paradigm h
+  - Programming paradigm u
   - Programming language u
   - Contract
-  - Module k
-  - Library k
-  - Package h
+  - Module u
+  - Library u
+  - Package u
   - Component
   - Framework h
-  - Platform h
-  - Source code k
+  - Platform k
+  - Source code u
   - Object code
   - Machine code k
   - Microcode
   - Software engineering u
-  - Decomposition k
+  - Decomposition u
   - Control flow
   - Data flow
   - Code reuse u
-  - Defensive programming
+  - Defensive programming k
   - Don't repeat yourself (DRY)
-  - KISS principle h
+  - KISS principle k
 - Syntax and concepts
   - Value u
   - Identifier u
   - Variable u
   - Constant u
-  - Scalar h
+  - Scalar u
   - Literal u
   - Expression u
-  - Heap
+  - Heap u
   - Function u
-  - Procedure h
-  - Method h
-  - Class h
-  - Prototype
-  - Event
-  - Type k
+  - Procedure u
+  - Method u
+  - Class u
+  - Prototype u
+  - Event u
+  - Type u
   - Flag
-  - Lexical scope
-  - Code block
+  - Lexical scope u
+  - Code block u
   - Conditions u
   - Loops u
   - Assignment u
-  - Regular expression h
-  - Interface
+  - Regular expression k
+  - Interface h
   - Namespaces h
   - Call stack
-  - Naming conventions k
-  - Coding conventions h
+  - Naming conventions u
+  - Coding conventions u
   - Camel case u
   - Snake case u
-  - Kebab case
-  - Trailing commas
-  - Return early k
-  - Fail-fast
+  - Kebab case h
+  - Trailing commas u
+  - Return early u
+  - Fail-fast u
 - Types
-  - Primitive types h
+  - Primitive types u
   - Reference types
   - Type systems
-  - Strong typing h
-  - Weak typing h
-  - Duck typing
-  - Static typing
-  - Dynamic typing
+  - Strong typing u
+  - Weak typing u
+  - Duck typing h
+  - Static typing u
+  - Dynamic typing h
   - Nominal typing
   - Structural typing
   - Explicit typing
@@ -84,21 +84,21 @@
   - Signature
   - Argument u
   - Parameter u
-  - Pure function
-  - Lambda expression h
-  - Side effects
-  - Closure
+  - Pure function u
+  - Lambda expression u
+  - Side effects u
+  - Closure u
   - Partial application
   - Currying
   - Higher order
-  - Recursion h
+  - Recursion u
   - Tail call optimisation
-  - Callback
-  - Listener
-  - Composition
-  - Pipe
-  - Memoize
-  - Wrapper h
+  - Callback u
+  - Listener u
+  - Composition u
+  - Pipe u
+  - Memoize u
+  - Wrapper u
   - Functor
   - Monad
   - Monoid
@@ -106,15 +106,15 @@
   - Coroutine k
 - Data structures
   - Array u
-  - Structure h
+  - Structure u
   - Record
-  - Enum h
+  - Enum u
   - Instance u
   - Object u
-  - Collection h
-  - Set k
-  - Hash table h
-  - Linked list
+  - Collection u
+  - Set u
+  - Hash table c
+  - Linked list c
   - Doubly list
   - Unrolled list
   - Circular list
@@ -122,7 +122,7 @@
   - Stack
   - Deque
   - Tree k
-  - Graph
+  - Graph u
   - Iterator
   - Mutable state
   - Immutable state
@@ -130,77 +130,77 @@
   - String parsing
   - JSON u
   - JSON5
-  - YAML k
+  - YAML u
 - Networking
-  - DNS
+  - DNS h
   - CDN
   - CORS u
-  - IPv4 h
+  - IPv4 k
   - IPv6
   - NAT
   - URL u
   - URN
-  - URI h
+  - URI u
 - Process and tools
   - Compiler u
   - Just-in-time compilation u
   - Ahead-of-time compilation
   - Transpiler
-  - Linter
+  - Linter u
   - Polyfill
   - Interpreter u
   - Linker
   - Dynamic linking
   - Static linking
-  - Runtime h
-  - Virtual machine
+  - Runtime u
+  - Virtual machine k
   - Register-based VM
   - Stack-based VM
-  - Containerization h
-  - Debugger k
-  - Tracing h
-  - Garbage collection h
-  - Refactoring k
-  - Code review h
+  - Containerization u
+  - Debugger u
+  - Tracing u
+  - Garbage collection u
+  - Refactoring u
+  - Code review u
   - Exception u
-  - Unittesting h
-  - git h
-  - Github k
-  - Docker h
+  - Unittesting k
+  - git u
+  - Github u
+  - Docker k
   - Kubernetes
-  - GCC
-  - LLVM
+  - GCC u
+  - LLVM k
 - Antipatterns
-  - Magic numbers
-  - Hard code k
-  - Soft code
-  - Cryptic code h
-  - Improbability factor
+  - Magic numbers u
+  - Hard code u
+  - Soft code u
+  - Cryptic code u
+  - Improbability factor u
   - Accidental complexity
   - Action at a distance
-  - Spaghetti k
-  - Silver bullet h
+  - Spaghetti u
+  - Silver bullet u
   - Not invented here
-  - Dead code h
-  - Unreachable code k
+  - Dead code u
+  - Unreachable code
   - Duplicate code
-  - Premature optimization
+  - Premature optimization u
   - Micro-optimization
-  - Nested loops k
-  - Long method/function/procedure k
-  - Long inheritance
-  - Large class/file h
-  - Too many parameters k
-  - Pass-through parameters
+  - Nested loops u
+  - Long method/function/procedure u
+  - Long inheritance u
+  - Large class/file u
+  - Too many parameters u
+  - Pass-through parameters k
   - Accumulate and fire
   - Use switch/case u
   - Temporary field
   - Handle object as instances and hashes at the same time u
-  - Use fields instead of arguments
+  - Use fields instead of arguments u
   - Data clump
-  - Feature envy
-  - Monkey patch
-  - Yo-yo problem
+  - Feature envy u
+  - Monkey patch u
+  - Yo-yo problem u
 - Runtimes and virtual machines
   - Bytecode
   - V8
@@ -212,18 +212,18 @@
   - Drivers u
   - Kernel h
   - Ring
-  - Virtual memory h
+  - Virtual memory u
   - File system u
-  - Linux h
+  - Linux k
   - Unix
   - BSD
   - MacOS u
   - Windows u
-  - Real-time OS
+  - Real-time OS u
   - Embedded OS
 - Standards
   - ASCII u
-  - Escape sequence h
+  - Escape sequence u
   - RFC h
   - IETF
   - IANA
