@@ -1,98 +1,98 @@
 ## JavaScript
 
 - Language
-  - `Object` u
-  - `Function` u
-  - `Boolean` u
-  - `Number` u
-  - `BigInt` u
-  - `String` u
-  - `Symbol` u
-  - `Infinity` k
-  - `NaN` u
-  - `undefined` u
-  - `null` u
-  - `this` u
-  - `instanceof` u
+  - `Object`: 🖐️ used
+  - `Function`: 🖐️ used
+  - `Boolean`: 🖐️ used
+  - `Number`: 🖐️ used
+  - `BigInt`: 🖐️ used
+  - `String`: 🖐️ used
+  - `Symbol`: 🖐️ used
+  - `Infinity`: 🎓 known
+  - `NaN`: 🖐️ used
+  - `undefined`: 🖐️ used
+  - `null`: 🖐️ used
+  - `this`: 🖐️ used
+  - `instanceof`: 🖐️ used
   - `...spread`
   - `...rest`
-  - `typeof` u
-  - Destructuring h
-  - Generators k
-  - Iterators k
+  - `typeof`: 🖐️ used
+  - Destructuring: 👂 heard
+  - Generators: 🎓 known
+  - Iterators: 🎓 known
   - Async generator
   - Async iterator
-  - Chaining u
+  - Chaining: 🖐️ used
   - Optional chaining
   - IIFE
   - Async IIFE
   - `global`
   - `globalThis`
-  - `window` u
+  - `window`: 🖐️ used
   - Getters and setters
   - `__proto__`
   - `prototype`
-  - Equality operators u
-  - Logical operators u
-  - Logical Assignment u
-  - Bitwise operators u
-  - Ternary operator u
-  - `void` u
-  - `yield` h
+  - Equality operators: 🖐️ used
+  - Logical operators: 🖐️ used
+  - Logical Assignment: 🖐️ used
+  - Bitwise operators: 🖐️ used
+  - Ternary operator: 🖐️ used
+  - `void`: 🖐️ used
+  - `yield`: 👂 heard
   - `await`u
-  - Template literal u
-  - Strict mode u
+  - Template literal: 🖐️ used
+  - Strict mode: 🖐️ used
   - Hoisting
   - `delete`
-  - `in` u
-  - `super` u
-  - `eval` u
-  - `static` u
-  - `Number.parseInt` u
-  - `Number.parseFloat` u
-  - Property descriptors u
+  - `in`: 🖐️ used
+  - `super`: 🖐️ used
+  - `eval`: 🖐️ used
+  - `static`: 🖐️ used
+  - `Number.parseInt`: 🖐️ used
+  - `Number.parseFloat`: 🖐️ used
+  - Property descriptors: 🖐️ used
   - Sealing properties
   - Freezing properties
   - Computed properties
-  - Instance class fields u
-  - Static class fields u
-  - Private class fields u
-  - Private class methods u
+  - Instance class fields: 🖐️ used
+  - Static class fields: 🖐️ used
+  - Private class fields: 🖐️ used
+  - Private class methods: 🖐️ used
 - Statements
-  - `if` u
-  - `while` u
-  - `do..while` u
-  - `for` u
-  - `for..in` u
-  - `for..of` u
-  - `for await` h
-  - `throw` u
-  - `break` u
-  - `continue` u
-  - `import` h
-  - `export` h
-  - `label` u
-  - `try..catch` u
-  - `switch` u
-  - `class` u
+  - `if`: 🖐️ used
+  - `while`: 🖐️ used
+  - `do..while`: 🖐️ used
+  - `for`: 🖐️ used
+  - `for..in`: 🖐️ used
+  - `for..of`: 🖐️ used
+  - `for await`: 👂 heard
+  - `throw`: 🖐️ used
+  - `break`: 🖐️ used
+  - `continue`: 🖐️ used
+  - `import`: 👂 heard
+  - `export`: 👂 heard
+  - `label`: 🖐️ used
+  - `try..catch`: 🖐️ used
+  - `switch`: 🖐️ used
+  - `class`: 🖐️ used
   - `extends`
-  - `with` h
-  - `new` u
+  - `with`: 👂 heard
+  - `new`: 🖐️ used
 - Functions
-  - Arrow function u
-  - Async function u
-  - Function declaration u
-  - Function expression u
-  - Default parameters u
+  - Arrow function: 🖐️ used
+  - Async function: 🖐️ used
+  - Function declaration: 🖐️ used
+  - Function expression: 🖐️ used
+  - Default parameters: 🖐️ used
   - Functional object
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return` u
+  - `return`: 🖐️ used
 - Data structures
-  - `Array` u
-  - `Map` u
-  - `Set` u
+  - `Array`: 🖐️ used
+  - `Map`: 🖐️ used
+  - `Set`: 🖐️ used
   - `WeakMap`
   - `WeakSet`
   - Typed arrays
@@ -101,22 +101,22 @@
 - Standard classes and namespaces
   - `Proxy`
   - `RegExp`
-  - `Date` u
-  - `Math` u
+  - `Date`: 🖐️ used
+  - `Math`: 🖐️ used
   - `Reflect`
-  - `Error` u
+  - `Error`: 🖐️ used
   - `Atomics`
-  - `JSON` k
+  - `JSON`: 🎓 known
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise` k
-  - `console` u
+  - `Promise`: 🎓 known
+  - `console`: 🖐️ used
   - Timers j
 - Infrastructure
   - V8
-  - Node.js u
-  - npm u
-  - prettier u
-  - MDN u
-  - TC39 h
+  - Node.js: 🖐️ used
+  - npm: 🖐️ used
+  - prettier: 🖐️ used
+  - MDN: 🖐️ used
+  - TC39: 👂 heard
