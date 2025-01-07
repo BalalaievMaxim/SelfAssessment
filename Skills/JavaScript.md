@@ -1,22 +1,22 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
+  - `Object` h
+  - `Function` h
+  - `Boolean` h
+  - `Number` h
   - `BigInt`
-  - `String`
+  - `String` h
   - `Symbol`
   - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
+  - `NaN` h
+  - `undefined` h
+  - `null` h
   - `this`
   - `instanceof`
   - `...spread`
   - `...rest`
-  - `typeof`
+  - `typeof` h
   - Destructuring
   - Generators
   - Iterators
@@ -32,12 +32,12 @@
   - Getters and setters
   - `__proto__`
   - `prototype`
-  - Equality operators
-  - Logical operators
-  - Logical Assignment
-  - Bitwise operators
-  - Ternary operator
-  - `void`
+  - Equality operators k
+  - Logical operators k
+  - Logical Assignment k
+  - Bitwise operators k
+  - Ternary operator h
+  - `void` h
   - `yield`
   - `await`
   - Template literal
@@ -48,8 +48,8 @@
   - `super`
   - `eval`
   - `static`
-  - `Number.parseInt`
-  - `Number.parseFloat`
+  - `Number.parseInt` h
+  - `Number.parseFloat` h
   - Property descriptors
   - Sealing properties
   - Freezing properties
@@ -59,20 +59,20 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
+  - `if` k
+  - `while` k
+  - `do..while` h
+  - `for` k
   - `for..in`
   - `for..of`
   - `for await`
   - `throw`
-  - `break`
-  - `continue`
+  - `break` k
+  - `continue` k
   - `import`
   - `export`
   - `label`
-  - `try..catch`
+  - `try..catch` h
   - `switch`
   - `class`
   - `extends`
@@ -81,16 +81,16 @@
 - Functions
   - Arrow function
   - Async function
-  - Function declaration
+  - Function declaration k
   - Function expression
-  - Default parameters
+  - Default parameters h
   - Functional object
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return`
+  - `return` k
 - Data structures
-  - `Array`
+  - `Array` h
   - `Map`
   - `Set`
   - `WeakMap`
@@ -101,22 +101,22 @@
 - Standard classes and namespaces
   - `Proxy`
   - `RegExp`
-  - `Date`
-  - `Math`
+  - `Date` h
+  - `Math` h
   - `Reflect`
   - `Error`
   - `Atomics`
-  - `JSON`
+  - `JSON` k
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
   - `Promise`
-  - `console`
+  - `console` u
   - Timers
 - Infrastructure
   - V8
-  - Node.js
+  - Node.js h
   - npm
   - prettier
-  - MDN
+  - MDN u
   - TC39

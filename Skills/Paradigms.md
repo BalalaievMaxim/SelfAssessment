@@ -2,12 +2,12 @@
 
 - Theory
   - Procedural programming
-  - Imperative programming
+  - Imperative programming h
   - Structured programming
   - Non-structured programming
   - Functional programming
   - Prototype-based programming
-  - Object-oriented programming
+  - Object-oriented programming h
   - Object-based programming
   - Generic programming
   - Concurrent computing
@@ -27,25 +27,25 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor
-  - Operator `new`
+  - Constructor h
+  - Operator `new` h
   - Static method
-  - Method
+  - Method h
   - Async method
   - Getters, Setters
   - Public fields
   - Private fields
   - Field declarations
-  - Inheritance
-  - Parent class
+  - Inheritance h
+  - Parent class h
   - Polymorphism
   - Abstract class
   - Interface
-  - Encapsulation
+  - Encapsulation h
   - Hidden class
   - Object form
-  - Instance
-  - Introspection
+  - Instance h
+  - Introspection h
   - Reflection
   - The diamond problem
 - GRASP
@@ -58,14 +58,14 @@
   - Protected variations
   - Pure fabrication
 - SOLID
-  - Single-responsibility principle (SRP)
+  - Single-responsibility principle (SRP) h
   - Open–closed principle (OCP)
   - Liskov substitution principle (LSP)
   - Interface segregation principle (ISP)
-  - Dependency inversion principle (DIP)
+  - Dependency inversion principle (DIP) h
 - Patterns
-  - Singleton
-  - Factory Method
+  - Singleton h
+  - Factory Method h
   - Abstract Factory
   - Adapter
   - Observer
@@ -80,7 +80,7 @@
   - Builder
   - Prototype
   - Composite
-  - Decorator
+  - Decorator h
   - Flyweight
   - Mediator
   - Memento

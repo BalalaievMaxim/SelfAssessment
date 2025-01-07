@@ -1,14 +1,14 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
+  - Data types h
   - Performance tuning
   - Migrations
   - Schema versioning
   - Backup and recovery
   - Database scalability
   - Relational databases
-  - Key-value store
+  - Key-value store u
   - Tuple store
   - Graph databases
   - Object databases
@@ -25,7 +25,7 @@
   - Entity-Relationship Diagram
   - Normal forms
   - Indexing
-  - Primary keys
+  - Primary keys h
   - Foreign keys
   - Transactions
   - Views
@@ -75,7 +75,7 @@
   - MySQL
   - MariaDB
   - MS SQL Server
-  - Redis
+  - Redis h
   - Rabbit
   - MongoDB
   - Memcached
@@ -89,6 +89,6 @@
   - Business intelligence
   - Big data
   - Data analysis
-  - AI tools
+  - AI tools u
   - Cloud databases
   - Data Visualization
